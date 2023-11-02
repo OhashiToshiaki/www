@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+<!-- headの中身はwebページ上には表示されない -->
+ <head>
+
+ <meta charset="utf-8">
+    
+    <!-- webページ上部に表示されるタイトルです -->
+    <title>矢守研究室</title>
+    
+    <!-- 「stylesheet.css」の読み込み -->
+    <link rel="stylesheet" href="stylesheet.css">
+
+ </head>
+ <body>
+
+  <div class="header">
+  </div>
+  <!-- これはコメントです -->
+  <h1>ようこそ研究室へ</h1>
+  <p>※このサイトは朝日大学のゼミ研究室のサイトです。</p>
+  <a href="https://www.asahi-u.ac.jp/">朝日大学はこちら</a>
+
+ </body>
+</html>
