@@ -118,7 +118,6 @@ header {
   font-size: 50px
   widht: 500px;
   heigt: 30px
-  background-color: #00ff7f
 }
 
 .lesson {
@@ -215,7 +214,7 @@ footer {
   }
 
   .heading h2 {
-    font-size: 40px;
+    font-size: 100px;
   }
 }
 
@@ -230,10 +229,6 @@ footer {
 
   .top-wrapper .btn {
     width: 100%;
-  }
-
-  .twitter {
-    margin-top: 10px;
   }
 
   .top-wrapper {
