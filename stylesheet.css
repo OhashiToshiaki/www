@@ -120,7 +120,6 @@ header {
 .lesson {
   float: left;
   width: 25%;
-  color: biue;
 }
 
 .lesson-icon {
@@ -131,7 +130,7 @@ header {
   position: absolute;
   top: 37%;
   width: 100%;
-  color: white;
+  color: blue;
 }
 
 .text-contents {
