@@ -5,9 +5,9 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
-  background: linear-gradient(#FFA8A8, #FCFF00);
-  background: -moz-linear-gradient(#FFA8A8, #FCFF00);
-  background: -webkit-linear-gradient(#FFA8A8, #FCFF00);
+  background: linear-gradient(to right, #FFA8A8, #FCFF00);
+  background: -moz-linear-gradient(left, #FFA8A8, #FCFF00);
+  background: -webkit-linear-gradient(left, #FFA8A8, #FCFF00);
 }
 
 a {
